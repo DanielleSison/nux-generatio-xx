@@ -38,7 +38,7 @@ The following instructions must be followed to navigate the generator:
 
 <li>Click OK for each character type needed, as directed by the window prompt: (This step will also be validated like Step 2) </li>
 
-![Character Type Window 1](./assets/images/CharacterPrompt.JPG)
+![Character Type Window one](./assets/images/CharacterPrompt.JPG)
 
 <li>Random password will be generated within user's acceptance criteria.
 
