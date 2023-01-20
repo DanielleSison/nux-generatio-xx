@@ -1,6 +1,6 @@
 # Nux Generatio XX
 
-## URL: https://daniellesison.github.io/nux-generatio-xx/
+## URL:
 
 ## Description
 
